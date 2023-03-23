@@ -1,0 +1,21 @@
+{
+  "name": "chapter2",
+  "version": "1.0.0",
+  "description": "Practice With NPM and Express",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "JSON",
+    "NodeJS",
+    "NPM",
+    "Express"
+  ],
+  "author": "Cesar David Millan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
